@@ -1,6 +1,6 @@
 <html>
 <body>
-<h1><font color='Pink'> Welcome to BlujayTech Youtube Channel- yours Destination for Cloud AI & Devops Training <font></h1>
+<h1><font color='Yellow'> Welcome to BlujayTech Youtube Channel- yours Destination for Cloud AI & Devops Training <font></h1>
 
 <a href="https://www.youtube.com/@blujaytech">Click Here To See our youtube Channel</a>
   
